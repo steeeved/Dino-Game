@@ -321,5 +321,3 @@ main()
 - **Enter/Space**: Restart after game over.
 
 ---
-
-This breakdown explains the entire code in **README.md syntax**. Let me know if you need further clarification! 😊
